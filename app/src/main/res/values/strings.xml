@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="clear_found_items">Clear found items</string>
+</resources>
